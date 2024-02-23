@@ -11,7 +11,7 @@ Email: khgwak@unist.ac.kr / khgwak03@gmail.com
 
 More about me!       
 Blog: https://kh5994.github.io/       
-LinkedIn: linkedin.com/in/kyeonghwan-gwak-7918102b6
+LinkedIn: https://linkedin.com/in/kyeonghwan-gwak-7918102b6
 
 
 
