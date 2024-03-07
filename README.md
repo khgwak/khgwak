@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Kyeonghwan Gwak(곽경환) 🤗       
-&emsp;I am an undergraduate student at the Ulsan National Institute of Science and Technology (UNIST), where I am double majoring in Computer Science and Engineering (CSE) and Mathematical Sciences. I'm also an undergraduate intern in the UNIST Vision & Learning LAB ([UVLL](https://vision.unist.ac.kr/)), led by [Prof. Seungryul Baek](https://sites.google.com/site/bsrvision00/). In addition, I've been selected as the candidate for Research Officers for National Defense ([ROND](https://rond.or.kr/)) in the field of EECS.  
+&emsp;I am an undergraduate student at the Ulsan National Institute of Science and Technology ([UNIST](https://www.unist.ac.kr/)), where I am double majoring in Computer Science and Engineering ([CSE](https://cse.unist.ac.kr/eng/)) and Mathematical Sciences. I'm also an undergraduate intern in the UNIST Vision & Learning LAB ([UVLL](https://vision.unist.ac.kr/)), led by [Prof. Seungryul Baek](https://sites.google.com/site/bsrvision00/). In addition, I've been selected as the candidate for Research Officers for National Defense ([ROND](https://rond.or.kr/)) in the field of EECS.  
 I have a keen interest in philosophy, particularly metaphysics and the philosophy of science.  
 
 - 👀 My main research interest lies in computer vision, especially the 3D human pose estimation.  
